@@ -1,0 +1,13 @@
+Package: com.saud.swipetodeletecontact
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: saud <alshaman@gmail.com>
+Filename: /swipetodeletecontact.deb
+Size: 84324
+MD5sum: E4650F9DD7E055C49866761568CEF174
+SHA1: 85976A267C76DD8F22A46C231C32AD4560DDEAD0
+SHA256: 84AE35B6D08D49599D2DFA4F5BCEDA38DBD12AEA8FA90923E6CD9929B973E5A5
+Section: Tweaks
+Description: test Tweak alshaman
+Author: saud <alshaman@gmail.com>
+Name: Swipetodeletecontact
