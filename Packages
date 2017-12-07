@@ -1,13 +1,13 @@
-Package: com.saud.swipetodeletecontact
+Package: com.saud.ControlPanel
 Version: 0.0.1
 Architecture: iphoneos-arm
-Maintainer: saud <alshaman@gmail.com>
-Filename: /swipetodeletecontact.deb
-Size: 84324
-MD5sum: E4650F9DD7E055C49866761568CEF174
-SHA1: 85976A267C76DD8F22A46C231C32AD4560DDEAD0
-SHA256: 84AE35B6D08D49599D2DFA4F5BCEDA38DBD12AEA8FA90923E6CD9929B973E5A5
+Maintainer: saud <alshaman64@gmail.com>
+Filename: /ControlPanel.deb
+Size: 64450
+MD5sum: 173EE1A22A0AD1D3CA8DEA39D8124693
+SHA1: 1D10C19351B9FBD753B4B4C7A103446F34DD8541
+SHA256: A117C1CF27A6C1E0E1252975ACDECBAA52EC9D7249F93D3A7F836FC277963639
 Section: Tweaks
-Description: test Tweak alshaman
-Author: saud <alshaman@gmail.com>
-Name: Swipetodeletecontact
+Description: test Tweak alshaman repo
+Author: saud <alshaman64gmail.com>
+Name: ControlPanel 10
