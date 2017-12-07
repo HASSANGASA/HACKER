@@ -1,0 +1,41 @@
+NOTIFICATION_SOUND = "صوت الإشعارات";
+
+NOTIFICATION_SOUND_ENABLED = "تمكين صوت الإشعارات";
+
+OPTIONS = "خيارات";
+
+LIKES = "إعجاب";
+
+LIKES_FOOTER_TEXT = "معجب بصورك";
+
+COMMENTS = "التعليقات";
+
+COMMENTS_FOOTER_TEXT = "صورة رائعة !";
+
+POST = "آخر الإخطارات";
+
+POST_FOOTER_TEXT = "مجرد نشر صورة";
+
+NEW_FOLLOWERS = "متابعين جدد";
+
+NEW_FOLLOWERS_FOOTER_TEXT = "تابعك أحد";
+
+ACCEPTED_FOLLOW_REQUESTS = "قبول طلبات المتابعين";
+
+ACCEPTED_FOLLOW_REQUESTS_FOOTER_TEXT = "قبول طلبات المتابعة الخاصة بك";
+
+INSTAGRAM_DIRECT_REQUESTS = "طلبات الخاص";
+
+INSTAGRAM_DIRECT_REQUESTS_FOOTER_TEXT = "يريد أن يرسل لك صورة";
+
+INSTAGRAM_DIRECT = "الخاص";
+
+INSTAGRAM_DIRECT_FOOTER_TEXT = "ارسال صورة";
+
+PHOTOS_OF_YOU = "صورك";
+
+PHOTOS_OF_YOU_FOOTER_TEXT = "وضع حسابك في الصور ( سوالك تاق )";
+
+FIRST_PHOTO = "اول صورة";
+
+FIRST_PHOTO_FOOTER_TEXT = "اول صورة في انستفرام";

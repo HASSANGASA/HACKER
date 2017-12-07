@@ -1,0 +1,43 @@
+ENABLED = "Actif";
+
+SETTINGS = "Réglages";
+
+NOTIFICATION_SOUND = "Son des notifications";
+
+ON = "Activé";
+
+OFF = "Désactiver";
+
+DISPLAY = "Afficher les options";
+
+RESPRING = "Respring";
+
+CANCEL = "Cancel";
+
+COPY = "Copy";
+
+CONFIRM = "Confirm";
+
+SAVE_OPTIONS = "OPTION DE SAUVEGARDE";
+
+PHOTO_ALBUM_ENABLED = "Mettre dans un album précis";
+
+PHOTO_ALBUM_TITLE = "Nom de l'Album";
+
+SHARE_OPTIONS = "PARTAGER LES OPTIONS";
+
+MEDIA_FILE = "Fichier Photo ou vidéo";
+
+CAPTION = "Légende";
+
+POST_URL = "Poster l'URL";
+
+SHARE_OPTIONS_FOOTER_TEXT = "Set display items when sharing.";
+
+SUPPORT = "Support d'InstaTools";
+
+DONATE = "Faire un don avec PayPal";
+
+BITCOIN = "Donate via Bitcoin";
+
+TRANSLATOR = "Translator by Mr. Flat";

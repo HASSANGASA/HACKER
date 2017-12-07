@@ -8,6 +8,24 @@ MD5sum: 173EE1A22A0AD1D3CA8DEA39D8124693
 SHA1: 1D10C19351B9FBD753B4B4C7A103446F34DD8541
 SHA256: A117C1CF27A6C1E0E1252975ACDECBAA52EC9D7249F93D3A7F836FC277963639
 Section: Tweaks
-Description: test Tweak saud repo
+Description: اداة لوحة التحكم
 Author: saud <alshaman64gmail.com>
 Name: ControlPanel 10
+
+
+
+
+Package: test.HDIcons
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: saud <alshaman64@gmail.com>
+Filename: /test.1.deb
+Size: 869870 
+MD5sum: B128949E94BAA6150C471559E0B11E65
+SHA1: 1E2D81FE765D5343117DACBE0C9AACC2CD6FCAC2
+SHA256: E15EB47B7383913FFAD3D36D13AD16D68E20E9D7AF186C9259A1C00AF33B8F83
+Section: Tweaks
+Description: اداة انستقرام لحفظ الصور والفيديو والعديد من الميزات
+Author: saud <alshaman64gmail.com>
+Name: HDI cons 
+Depennds: Winterboard 

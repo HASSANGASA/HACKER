@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>title</key>
+	<string>PHOTO_ALBUM_TITLE</string>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSEditTextCell</string>
+			<key>defaults</key>
+			<string>com.willy.lung.instatools</string>
+			<key>default</key>
+			<string>InstaTools</string>
+			<key>id</key>
+			<string>PhotoAlbumTitleCell</string>
+			<key>get</key>
+			<string>getPhotoAlbumTitle:</string>
+			<key>set</key>
+			<string>setPhotoAlbumTitle:forSpecifier:</string>
+			<key>key</key>
+			<string>PhotoAlbumTitle</string>
+			<key>PostNotification</key>
+			<string>com.willy.lung.instatools/preferencesChanged</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,43 @@
+ENABLED = "Enabled";
+
+SETTINGS = "SETTINGS";
+
+NOTIFICATION_SOUND = "Notifications Sound";
+
+ON = "On";
+
+OFF = "Off";
+
+DISPLAY = "Display";
+
+RESPRING = "Respring";
+
+CANCEL = "Cancel";
+
+COPY = "Copy";
+
+CONFIRM = "Confirm";
+
+SAVE_OPTIONS = "SAVE OPTIONS";
+
+PHOTO_ALBUM_ENABLED = "Save to Specified Album";
+
+PHOTO_ALBUM_TITLE = "Album Name";
+
+SHARE_OPTIONS = "SHARE OPTIONS";
+
+MEDIA_FILE = "Photo or Video File";
+
+CAPTION = "Caption";
+
+POST_URL = "Post URL Link";
+
+SHARE_OPTIONS_FOOTER_TEXT = "Set display items when sharing.";
+
+SUPPORT = "InstaTools Support";
+
+DONATE = "Donate via PayPal";
+
+BITCOIN = "Donate via Bitcoin";
+
+TRANSLATOR = "Translator by Ms. Mimi (mimihsieh0716)";
