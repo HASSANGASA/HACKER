@@ -1,15 +1,15 @@
-Package: saud.github.io.ControlPanel
+Package: com.crazybloo.controlpanel10
 Version: 0.0.1
 Architecture: iphoneos-arm
-Maintainer: saud <alshaman64@gmail.com>
-Filename: /ControlPanel.deb
+Maintainer: CrazyBloo <hellnogaming158@gmail.com>
+Filename: /controlpanel10.deb
 Size: 64450
-MD5sum: 173EE1A22A0AD1D3CA8DEA39D8124693
-SHA1: 1D10C19351B9FBD753B4B4C7A103446F34DD8541
-SHA256: A117C1CF27A6C1E0E1252975ACDECBAA52EC9D7249F93D3A7F836FC277963639
+MD5sum: 173ee1a22a0ad1d3ca8dea39d8124693
+SHA1: 1d10c19351b9fbd753b4b4c7a103446f34dd8541
+SHA256: a117c1cf27a6c1e0e1252975acdecbaa52ec9d7249f93d3a7f836fc277963639
 Section: Tweaks
-Description: اداة لوحة التحكم
-Author: saud <alshaman64gmail.com>
+Description: Regain control of your device
+Author: CrazyBloo <hellnogaming158@gmail.com>
 Name: ControlPanel 10
 
 
