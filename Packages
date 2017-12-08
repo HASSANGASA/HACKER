@@ -15,7 +15,7 @@ Name: ControlPanel 10
 
 
 
-Package: test.HDIcons
+Package: com.saud.github.io.test.1
 Version: 2.0
 Architecture: iphoneos-arm
 Maintainer: saud <alshaman64@gmail.com>
