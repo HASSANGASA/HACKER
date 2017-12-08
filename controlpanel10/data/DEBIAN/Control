@@ -1,6 +1,0 @@
-Packages: saud.github.io.ControlPanel
-Name: HDI cons 
-Version: 2.0
-Architectures: iphoneos-arm
-Description: اداة انستقرام لحفظ الصور والفيديو والعديد من الميزات 
-Depennds: Winterboard 
