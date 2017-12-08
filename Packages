@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Package: com.saud.ControlPanel
 Version: 0.0.1
 Architecture: iphoneos-arm
@@ -21,25 +20,12 @@ Version: 2.0
 Architecture: iphoneos-arm
 Maintainer: saud <alshaman64@gmail.com>
 Filename: /test.1.deb
-Size: 869870 
-MD5sum: B128949E94BAA6150C471559E0B11E65
-SHA1: 1E2D81FE765D5343117DACBE0C9AACC2CD6FCAC2
-SHA256: E15EB47B7383913FFAD3D36D13AD16D68E20E9D7AF186C9259A1C00AF33B8F83
+Size: 818932 
+MD5sum: 54D69B22279D61E66E8881C088B7B712
+SHA1: A47C7670578342E6DC64F722CCC39AD616C5C45E
+SHA256: BDE92F7871DFC4197BDF025FF1EC24752F30C38AC2357B32C82AE820421E2505
 Section: Tweaks
 Description: اداة انستقرام لحفظ الصور والفيديو والعديد من الميزات
 Author: saud <alshaman64gmail.com>
 Name: HDI cons 
 Depennds: Winterboard 
-=======
-Package: com.saud.ControlPanel
-Version: 0.0.1
-Architecture: iphoneos-arm
-Maintainer: saud <alshaman64@gmail.com>
-Filename: /ControlPanel.deb
-Size: 64450
-MD5sum: 173EE1A22A0AD1D3CA8DEA39D8124693
-Section: Tweaks
-Description: اداة تسهيل حذف جهات الاتصال
-Author: saud <alshaman64gmail.com>
-Name: ControlPanel 10
->>>>>>> 9bc66195ad2bf1077e43a63373788aae9e7a3154
