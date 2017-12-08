@@ -1,0 +1,27 @@
+DISPLAY = "العرض";
+
+USER_PROFILE = "الملف الشخصي";
+
+FOLLOWING_STATUS_ENABLED = "عرض حالة المتابعين";
+
+MAIN_FEED = "Main Feed";
+
+USER_FULL_NAME_ENABLED = "إظهار إسم المستخدم";
+
+DATE_FORMAT_ENABLED = "تحويل من الوقت الى التاريخ";
+
+DATE_STYLE = "نمط التاريخ";
+
+DATE_TEXT_SIZE = "حجم خط التاريخ";
+
+ICON = "ICON";
+
+CLASSIC_ICON_ENABLED = "رمز كلاسيكي";
+
+COLUMN_LAYOUT = "تخطيط الشبكة";
+
+COLUMN_ONE = "1 عمود";
+
+COLUMN_TWO = "2 عمود";
+
+COLUMN_THREE = "3 عمود";

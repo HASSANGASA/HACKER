@@ -1,0 +1,43 @@
+NOTIFICATION_SOUND = "通知提示聲";
+
+NOTIFICATION_SOUND_ENABLED = "啟用通知提示聲";
+
+OPTIONS = "選項";
+
+LIKES = "讚";
+
+LIKES_FOOTER_TEXT = "willy.lung 說你的相片讚。";
+
+COMMENTS = "回應";
+
+COMMENTS_FOOTER_TEXT = "willy.lung 回應了：「做得好！」";
+
+POST = "貼文通知";
+
+POST_FOOTER_TEXT = "willy.lung 剛剛張貼了1張相片。";
+
+NEW_FOLLOWERS = "新追蹤者";
+
+NEW_FOLLOWERS_FOOTER_TEXT = "Willy Lung（willy.lung）已開始追蹤你。";
+
+ACCEPTED_FOLLOW_REQUESTS = "已接受的追蹤要求";
+
+ACCEPTED_FOLLOW_REQUESTS_FOOTER_TEXT = "Willy Lung（willy.lung）接受了你的追蹤要求。";
+
+INSTAGRAM_DIRECT_REQUESTS = "Instagram Direct 要求";
+
+INSTAGRAM_DIRECT_REQUESTS_FOOTER_TEXT = "willy.lung 想要傳送1張相片給你。";
+
+INSTAGRAM_DIRECT = "Instagram Direct";
+
+INSTAGRAM_DIRECT_FOOTER_TEXT = "willy.lung 傳送了1張相片給你。";
+
+PHOTOS_OF_YOU = "有你在內的相片";
+
+PHOTOS_OF_YOU_FOOTER_TEXT = "willy.lung 在1張相片中標註了你。";
+
+FIRST_PHOTO = "第一張相片";
+
+FIRST_PHOTO_FOOTER_TEXT = "查看 willy.lung 的第一張Instagram相片。";
+
+

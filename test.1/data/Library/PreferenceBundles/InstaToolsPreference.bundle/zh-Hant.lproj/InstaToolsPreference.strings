@@ -1,0 +1,43 @@
+ENABLED = "啟用";
+
+SETTINGS = "設定";
+
+NOTIFICATION_SOUND = "通知提示聲";
+
+ON = "開啟";
+
+OFF = "關閉";
+
+DISPLAY = "顯示";
+
+RESPRING = "重新啟用主畫面";
+
+CANCEL = "取消";
+
+COPY = "複製";
+
+CONFIRM = "確認";
+
+SAVE_OPTIONS = "儲存選項";
+
+PHOTO_ALBUM_ENABLED = "儲存至指定相簿";
+
+PHOTO_ALBUM_TITLE = "相簿名稱";
+
+SHARE_OPTIONS = "分享選項";
+
+MEDIA_FILE = "相片或影片檔";
+
+CAPTION = "貼文標題";
+
+POST_URL = "轉貼連結";
+
+SHARE_OPTIONS_FOOTER_TEXT = "使用分享時，所包含的項目。";
+
+SUPPORT = "InstaTools 支援";
+
+DONATE = "經由 PayPal 贊助";
+
+BITCOIN = "比特幣支付";
+
+TRANSLATOR = ""; 

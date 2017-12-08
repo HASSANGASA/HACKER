@@ -1,0 +1,43 @@
+ENABLED = "تمكين";
+
+SETTINGS = "الاعدادات";
+
+NOTIFICATION_SOUND = "صوت الإشعارات";
+
+ON = "يعمل";
+
+OFF = "مغلق";
+
+DISPLAY = "العرض";
+
+RESPRING = "اعادة تشغيل";
+
+CANCEL = "الغاء";
+
+COPY = "نسخ";
+
+CONFIRM = "تأكيد";
+
+SAVE_OPTIONS = "خيارات الحفظ";
+
+PHOTO_ALBUM_ENABLED = "حفظ الصور في ألبوم خاص";
+
+PHOTO_ALBUM_TITLE = "إسم الألبوم";
+
+SHARE_OPTIONS = "خيارات المشاركة";
+
+MEDIA_FILE = "ملفات الصور او الفديو";
+
+CAPTION = "شرح";
+
+POST_URL = "وضع رابط";
+
+SHARE_OPTIONS_FOOTER_TEXT = "تعيين عناصر العرض عند المشاركة";
+
+SUPPORT = "الدعم الفني";
+
+DONATE = "تبرع عبر PayPal";
+
+BITCOIN = "تبرع عبر Bitcoin";
+
+TRANSLATOR = "تم التعريب بواسطة عبدالله و سعود";

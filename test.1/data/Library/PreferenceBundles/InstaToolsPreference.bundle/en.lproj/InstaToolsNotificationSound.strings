@@ -1,0 +1,43 @@
+NOTIFICATION_SOUND = "Notifications Sound";
+
+NOTIFICATION_SOUND_ENABLED = "Enabled Notifications Sound";
+
+OPTIONS = "OPTIONS";
+
+LIKES = "Likes";
+
+LIKES_FOOTER_TEXT = "willy.lung liked your photo.";
+
+COMMENTS = "Comments";
+
+COMMENTS_FOOTER_TEXT = "willy.lung commented: \"Nice shot!\"";
+
+POST = "Post Notifications";
+
+POST_FOOTER_TEXT = "willy.lung just posted a photo.";
+
+NEW_FOLLOWERS = "New Followers";
+
+NEW_FOLLOWERS_FOOTER_TEXT = "Willy Lung (willy.lung) started following you.";
+
+ACCEPTED_FOLLOW_REQUESTS = "Accepted Follow Request";
+
+ACCEPTED_FOLLOW_REQUESTS_FOOTER_TEXT = "Willy Lung (willy.lung) accepted your follow request.";
+
+INSTAGRAM_DIRECT_REQUESTS = "Instagram Direct Request";
+
+INSTAGRAM_DIRECT_REQUESTS_FOOTER_TEXT = "willy.lung wants to send you a photo.";
+
+INSTAGRAM_DIRECT = "Instagram Direct";
+
+INSTAGRAM_DIRECT_FOOTER_TEXT = "willy.lung sent you a photo.";
+
+PHOTOS_OF_YOU = "Photos of You";
+
+PHOTOS_OF_YOU_FOOTER_TEXT = "willy.lung tagged you in a photo.";
+
+FIRST_PHOTO = "First Photo";
+
+FIRST_PHOTO_FOOTER_TEXT = "See willy.lung's first Instagram photo.";
+
+
