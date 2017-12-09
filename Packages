@@ -12,6 +12,20 @@ Size: 26408062
 MD5sum: 1E00F5A0D402EB8792B5FB34247AB126
 
 
+Package: saud.swip
+Name: swip
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: System Administrator
+Author: System Administrator
+Section: Tweaks
+Filename: deb/swip.deb
+Size: 83306
+MD5sum: 9BF60C24D71818F9C86EC12F08D941EE
+
+
 
 
 
