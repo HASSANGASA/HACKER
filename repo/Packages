@@ -1,5 +1,5 @@
 Package: saud.swip
-Name: اداة تسهيل حذف جهات الاتصال
+Name: swip
 Depends: mobilesubstrate
 Version: 0.0.1
 Architecture: iphoneos-arm
@@ -8,8 +8,8 @@ Maintainer: System Administrator
 Author: System Administrator
 Section: Tweaks
 Filename: deb/swip.deb
-Size: 83358
-MD5sum: B28C1443CB803F489A76B593F811957F
+Size: 83306
+MD5sum: 9BF60C24D71818F9C86EC12F08D941EE
 
 
 
