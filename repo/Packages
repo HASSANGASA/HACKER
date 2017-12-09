@@ -1,5 +1,5 @@
-Package: com.yourcompany.weheartit
-Name: weheartit
+Package: saud.swip
+Name: اداة تسهيل حذف جهات الاتصال
 Depends: mobilesubstrate
 Version: 0.0.1
 Architecture: iphoneos-arm
@@ -7,9 +7,9 @@ Description: An awesome MobileSubstrate tweak!
 Maintainer: System Administrator
 Author: System Administrator
 Section: Tweaks
-Filename: deb/A.deb
-Size: 26408062
-MD5sum: 1E00F5A0D402EB8792B5FB34247AB126
+Filename: deb/swip.deb
+Size: 83358
+MD5sum: B28C1443CB803F489A76B593F811957F
 
 
 
