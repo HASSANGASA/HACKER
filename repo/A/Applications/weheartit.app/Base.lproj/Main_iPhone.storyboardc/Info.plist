@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIStoryboardDesignatedEntryPointIdentifier</key>
+	<string>LoadingView</string>
+	<key>UIStoryboardVersion</key>
+	<integer>1</integer>
+	<key>UIViewControllerIdentifiersToExternalStoryboardReferences</key>
+	<dict>
+		<key>UIViewController-c3a-9l-3Aj</key>
+		<dict>
+			<key>UIReferencedStoryboardName</key>
+			<string>Settings</string>
+		</dict>
+	</dict>
+	<key>UIViewControllerIdentifiersToNibNames</key>
+	<dict>
+		<key>AddDialog</key>
+		<string>AddDialog</string>
+		<key>Browser</key>
+		<string>Browser</string>
+		<key>Browser Navigation Controller</key>
+		<string>Browser Navigation Controller</string>
+		<key>BrowserSelectImageCollectionViewController</key>
+		<string>BrowserSelectImageCollectionViewController</string>
+		<key>Canvas Onboarding</key>
+		<string>Canvas Onboarding</string>
+		<key>Canvas Onboarding Content</key>
+		<string>Canvas Onboarding Content</string>
+		<key>Choose Canvas View</key>
+		<string>Choose Canvas View</string>
+		<key>CollectionSelectView</key>
+		<string>CollectionSelectView</string>
+		<key>CollectionView</key>
+		<string>CollectionView</string>
+		<key>CollectionsView</key>
+		<string>CollectionsView</string>
+		<key>ConversationListView</key>
+		<string>ConversationListView</string>
+		<key>EntriesList</key>
+		<string>EntriesList</string>
+		<key>EntriesResultsView</key>
+		<string>EntriesResultsView</string>
+		<key>Entry Details</key>
+		<string>Entry Details</string>
+		<key>Entry Details Page Controller</key>
+		<string>Entry Details Page Controller</string>
+		<key>Entry Zoom View</key>
+		<string>Entry Zoom View</string>
+		<key>EntryCollectionsList</key>
+		<string>EntryCollectionsList</string>
+		<key>ExploreNavigation</key>
+		<string>ExploreNavigation</string>
+		<key>FollowersView</key>
+		<string>FollowersView</string>
+		<key>FollowingView</key>
+		<string>FollowingView</string>
+		<key>FriendsView</key>
+		<string>FriendsView</string>
+		<key>HeartersAll</key>
+		<string>HeartersAll</string>
+		<key>HeartersSegmented</key>
+		<string>HeartersSegmented</string>
+		<key>HeartersVia</key>
+		<string>HeartersVia</string>
+		<key>InspirationEntries</key>
+		<string>InspirationEntries</string>
+		<key>InspirationsCollection</key>
+		<string>InspirationsCollection</string>
+		<key>Link Facebook</key>
+		<string>Link Facebook</string>
+		<key>Link Google+</key>
+		<string>Link Google+</string>
+		<key>Link Twitter</key>
+		<string>Link Twitter</string>
+		<key>LoadingView</key>
+		<string>LoadingView</string>
+		<key>LoginNavigation</key>
+		<string>LoginNavigation</string>
+		<key>MainController</key>
+		<string>MainController</string>
+		<key>NotificationsView</key>
+		<string>NotificationsView</string>
+		<key>OnboardingCollectionsViewController</key>
+		<string>OnboardingCollectionsViewController</string>
+		<key>PostImage</key>
+		<string>PostImage</string>
+		<key>PostcardConversationView</key>
+		<string>PostcardConversationView</string>
+		<key>PostcardReplyTutorial</key>
+		<string>PostcardReplyTutorial</string>
+		<key>PostcardUsers</key>
+		<string>PostcardUsers</string>
+		<key>ReportView</key>
+		<string>ReportView</string>
+		<key>SearchCollections</key>
+		<string>SearchCollections</string>
+		<key>SearchHearts</key>
+		<string>SearchHearts</string>
+		<key>SearchResults</key>
+		<string>SearchResults</string>
+		<key>SearchUsers</key>
+		<string>SearchUsers</string>
+		<key>SimilarEntries</key>
+		<string>SimilarEntries</string>
+		<key>TagResultsView</key>
+		<string>TagResultsView</string>
+		<key>TourView</key>
+		<string>TourView</string>
+		<key>UIPageViewController-epm-vI-pOA</key>
+		<string>UIPageViewController-epm-vI-pOA</string>
+		<key>UITabBarController-8YX-ce-x5E</key>
+		<string>UITabBarController-8YX-ce-x5E</string>
+		<key>UIViewController-c3a-9l-3Aj</key>
+		<string>UIViewController-c3a-9l-3Aj</string>
+		<key>UserCanvasGrid</key>
+		<string>UserCanvasGrid</string>
+		<key>UserCollections</key>
+		<string>UserCollections</string>
+		<key>UserHearts</key>
+		<string>UserHearts</string>
+		<key>UserHeartsContainer</key>
+		<string>UserHeartsContainer</string>
+		<key>UserInfo</key>
+		<string>UserInfo</string>
+		<key>UserPage</key>
+		<string>UserPage</string>
+		<key>UsersList</key>
+		<string>UsersList</string>
+		<key>WHIDisslikeApp</key>
+		<string>WHIDisslikeApp</string>
+		<key>WHISeenBefore</key>
+		<string>WHISeenBefore</string>
+		<key>WHIUploadTOS</key>
+		<string>WHIUploadTOS</string>
+		<key>WebView</key>
+		<string>WebView</string>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BUNDLE_ID</key>
+	<string>com.weheartit</string>
+	<key>CLIENT_ID</key>
+	<string>921493478491-19vp0ecsh0mbn70rc19fvk16l8ehvelr.apps.googleusercontent.com</string>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:921493478491:ios:3c3d75e20c846ff5</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<false/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>PROJECT_ID</key>
+	<string>impressive-bay-399</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.921493478491-19vp0ecsh0mbn70rc19fvk16l8ehvelr</string>
+</dict>
+</plist>
