@@ -14,21 +14,19 @@ SHA1: 9FEA2847F45948C2AF32BE7E548EE2FDE29272C3
 SHA256: A75DBB7791A9930377EF453F4FA71B331DD08B8E9AA7198A9429099419393959
 
 
-Package: s3ud.swip
-Name: swip
+Package: com.yourepo.s3ud.swip
+Name: swipetodeletecontact معربة
 Depends: mobilesubstrate
 Version: 0.0.1
 Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
+Description: اداة تسهل لك حذف جهات الاتصال
 Maintainer: System Administrator
-Installed-Size: 10184
 Author: System Administrator
 Section: Tweaks
 Filename: deb/swip.deb
-Size: 83310
-MD5sum: 12C08CF5BD278A79E63A08075C16F7AA 
-SHA1: DE2E17084BA5724D679239B8609168E557B0B229
-SHA256: CF22DA4AED75DC320522FF035E9F901C009C174B79302592FEC92D8D0314C65D
+Size: 84756
+MD5sum: 2A2173D00760785924464DA955F9D6BB 
+
 
 
 Package: com.ps.emojiportwt
