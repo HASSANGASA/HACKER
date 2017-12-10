@@ -20,29 +20,14 @@ Version: 0.0.1
 Architecture: iphoneos-arm
 Description: An awesome MobileSubstrate tweak!
 Maintainer: System Administrator
+Installed-Size: 10184
 Author: System Administrator
 Section: Tweaks
 Filename: deb/swip.deb
 Size: 83310
 MD5sum: 12C08CF5BD278A79E63A08075C16F7AA 
 
-Package: com.ps.emojiportwt
-Version: 1.1.12
-Architecture: iphoneos-arm
-Maintainer: PoomSmart
-Installed-Size: 10184
-Depends: mobilesubstrate, firmware (>= 10.0), firmware (<< 11.1), com.ps.emojiattributes, com.ps.emojilibrary
-Conflicts: com.ps.emoji10wt
-Filename: .///debs/com.ps.emojiportwt_1.1.12_iphoneos-arm.deb
-Size: 2130998
-MD5sum: 19f39f8b8466c03553a659bccfc2e752
-SHA1: d380307547da85092c7c29c0960598e1384741f8
-SHA256: dbc569273c9f688db5f36a7092d702874c30e7b5319bf4f247a2359c07262170
-Section: Tweaks
-Description: Latest emojis for iOS 10
-Author: PoomSmart
-Depiction: https://poomsmart.github.io/repo/emojiportwt/index.html
-Name: EmojiPort (iOS 10)
+
 
 Package: com.ps.emojiportwt
 Version: 1.1.12
