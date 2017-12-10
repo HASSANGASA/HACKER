@@ -22,7 +22,7 @@ Description: An awesome MobileSubstrate tweak!
 Maintainer: System Administrator
 Author: System Administrator
 Section: Tweaks
-Filename: /deb/swip.deb
+Filename: ./deb/swip.deb
 Size: 83310
 MD5sum: 12C08CF5BD278A79E63A08075C16F7AA 
 
