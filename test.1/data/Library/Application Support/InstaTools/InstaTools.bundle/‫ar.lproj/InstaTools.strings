@@ -1,52 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>App Changes</key>
-	<string>Changes of Instagram occurred, please wait for InsraTool updating.</string>
-	<key>Cancel</key>
-	<string>إلغاء</string>
-	<key>Close</key>
-	<string>إغلاق</string>
-	<key>Copy Succeeded</key>
-	<string>Copy Succeeded</string>
-	<key>Download Image</key>
-	<string>حفظ</string>
-	<key>Downloading</key>
-	<string>الرجاء الإنتظار ...</string>
-	<key>Error</key>
-	<string>خطأ</string>
-	<key>Follows you</key>
-	<string>يتابعكك ❤️</string>
-	<key>Internet Failed</key>
-	<string>أخفق الاتصال بالإنترنت. تحقق من حالة الشبكة .</string>
-	<key>Like</key>
-	<string>إعجاب</string>
-	<key>Not Follows you</key>
-	<string>لا يتابعكك 💔</string>
-	<key>Notice</key>
-	<string>تنويه</string>
-	<key>Save Failed</key>
-	<string>تعذر الوصول إلى إذن التخزين، يرجى تشغيل الخصوصية في الإعداد.</string>
-	<key>Save Photo</key>
-	<string>حفظ الصورة</string>
-	<key>Save Succeeded</key>
-	<string>تم الحفظ بنجاح 😉</string>
-	<key>Save Video</key>
-	<string>حفظ الفيديو</string>
-	<key>See More</key>
-	<string>شاهد المزيد</string>
-	<key>Setting</key>
-	<string>ضبط </string>
-	<key>Share</key>
-	<string>شارك</string>
-	<key>Share Succeeded</key>
-	<string>تمت المشاركة بنجاح</string>
-	<key>Translate</key>
-	<string>ترجمه</string>
-	<key>Update</key>
-	<string>تحديث</string>
-	<key>Update Notice</key>
-	<string>InstaTools only supports Instagram %@ or newer version, please go to App Store app to update Instagram.</string>
-</dict>
-</plist>

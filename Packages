@@ -1,37 +1,32 @@
-Package: com.crazybloo.controlpanel10
+Package: com.yourcompany.weheartit
+Name: weheartit
+Depends: mobilesubstrate
 Version: 0.0.1
 Architecture: iphoneos-arm
-Maintainer: CrazyBloo <hellnogaming158@gmail.com>
-Filename: /controlpanel10.deb
-Size: 64450
-MD5sum: 173ee1a22a0ad1d3ca8dea39d8124693
-SHA1: 1d10c19351b9fbd753b4b4c7a103446f34dd8541
-SHA256: a117c1cf27a6c1e0e1252975acdecbaa52ec9d7249f93d3a7f836fc277963639
+Description: An awesome MobileSubstrate tweak!
+Maintainer: System Administrator
+Author: System Administrator
 Section: Tweaks
-<<<<<<< HEAD
-Description: اداة تسهيل حذف جهات الاتصال
-Author: saud <alshaman64gmail.com>
-Name: ControlPanel
-=======
-Description: Regain control of your device
-Author: CrazyBloo <hellnogaming158@gmail.com>
-Name: ControlPanel 10
+Filename: deb/A.deb
+Size: 26408062
+MD5sum: 1E00F5A0D402EB8792B5FB34247AB126
 
 
-
-
-Package: com.saud.github.io.test.1
-Version: 2.0
+Package: saud.swip
+Name: swip
+Depends: mobilesubstrate
+Version: 0.0.1
 Architecture: iphoneos-arm
-Maintainer: saud <alshaman64@gmail.com>
-Filename: /test.1.deb
-Size: 818932 
-MD5sum: 54D69B22279D61E66E8881C088B7B712
-SHA1: A47C7670578342E6DC64F722CCC39AD616C5C45E
-SHA256: BDE92F7871DFC4197BDF025FF1EC24752F30C38AC2357B32C82AE820421E2505
+Description: An awesome MobileSubstrate tweak!
+Maintainer: System Administrator
+Author: System Administrator
 Section: Tweaks
-Description: اداة انستقرام لحفظ الصور والفيديو والعديد من الميزات
-Author: saud <alshaman64gmail.com>
-Name: HDI cons 
-Depennds: Winterboard 
->>>>>>> 534727421bb14ff66a6bd79492f516739a2d71d9
+Filename: deb/swip.deb
+Size: 83306
+MD5sum: 9BF60C24D71818F9C86EC12F08D941EE
+
+
+
+
+
+
