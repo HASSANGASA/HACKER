@@ -14,7 +14,7 @@ SHA1: 9FEA2847F45948C2AF32BE7E548EE2FDE29272C3
 SHA256: A75DBB7791A9930377EF453F4FA71B331DD08B8E9AA7198A9429099419393959
 
 
-Package: com.yourepo.s3ud.swip
+Package: com.alshaman.s3ud.swip
 Name: swipetodeletecontact معربة
 Depends: mobilesubstrate
 Version: 0.0.1
@@ -24,10 +24,9 @@ Maintainer: System Administrator
 Author: System Administrator
 Section: Tweaks
 Filename: deb/swip.deb
-Size: 84756
-MD5sum: 2a2173d00760785924464dA955F9d6bb 
-SHA1: e79f106ccf236e81d453c7efdb20dfec9593486d
-SHA256: A75DBB7791A9930377EF453F4FA71B331DD08B8E9AA7198A9429099419393959
+Size: 84758
+MD5sum: e7b119cf882cfa819ccce27b719de507 
+
 
 
 Package: com.ps.emojiportwt
