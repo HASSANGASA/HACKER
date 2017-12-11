@@ -61,3 +61,18 @@ Description: This is a sample new package. Firmware should be greater than 7.0
 Name: New Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
+
+
+
+Package: com.alshaman.s3ud.instaTool
+Name: instaTool معربة  
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: اداة حفظ ومشاركة الصور والفيديو وبعض الميزات الاخرى
+Maintainer: سعود الشامان 
+Author: سعود الشامان
+Section: Tweaks
+Filename: deb/instaTool.deb
+Size: 818288
+MD5sum: b5971d187f73ac9e5e30b06b9d4f0e63
