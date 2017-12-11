@@ -76,3 +76,17 @@ Section: Tweaks
 Filename: deb/instaTool.deb
 Size: 818288
 MD5sum: b5971d187f73ac9e5e30b06b9d4f0e63
+
+
+Package: com.alshaman.s3ud.weheartit
+Name: weheartit تعريب  
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: تعريب برنامج  We heartit   
+Maintainer: سعود الشامان 
+Author: سعود الشامان
+Section: Tweaks
+Filename: deb/weheartit.deb
+Size: 29124
+MD5sum: 581c5d6a9022717d6203614643fc359d
