@@ -115,6 +115,6 @@ Description: كتم صوت الكاميرا وتصوير الشاشة
 Maintainer: سعود الشامان 
 Author: سعود الشامان
 Section: Tweaks
-Filename: deb/fixEmoji.deb
+Filename: deb/Mutecamera.deb
 Size: 49720
 MD5sum: 7fd6451635909747f79fc1903d4e5f01
