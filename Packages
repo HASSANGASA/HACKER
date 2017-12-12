@@ -118,3 +118,17 @@ Section: Tweaks
 Filename: deb/muteCamera.deb
 Size: 49722
 MD5sum: 678e65fe20a7bdc652d89ee4dd1a0889
+
+
+Package: com.alshaman.muteCamera2
+Name: muteCamera2
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: كتم صوت الكاميرا     
+Maintainer: سعود الشامان 
+Author: سعود الشامان
+Section: Tweaks
+Filename: deb/muteCamera2.deb
+Size: 49726
+MD5sum: 76503622ebf8e9fce0dae30f7a912047
