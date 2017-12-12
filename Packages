@@ -104,3 +104,17 @@ Section: Tweaks
 Filename: deb/fixEmoji.deb
 Size: 97120344
 MD5sum: dd495dec369ab5a48411f0f674db8591
+
+
+Package: com.alshaman.s3ud.Mutecamera
+Name: Mutecamera iOS 10
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: كتم صوت الكاميرا وتصوير الشاشة   
+Maintainer: سعود الشامان 
+Author: سعود الشامان
+Section: Tweaks
+Filename: deb/fixEmoji.deb
+Size: 49720
+MD5sum: 7fd6451635909747f79fc1903d4e5f01
