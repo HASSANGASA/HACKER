@@ -107,15 +107,3 @@ MD5sum: dd495dec369ab5a48411f0f674db8591
 
 
 
-Package: com.alshaman.muteCamera
-Name: Mute Camera
-Depends: mobilesubstrate
-Version: 1.0.0
-Architecture: iphoneos-arm
-Description: كتم صوت الكاميرا     
-Maintainer: سعود الشامان 
-Author: سعود الشامان
-Section: Tweaks
-Filename: deb/muteCamera.deb
-Size: 4096
-MD5sum: d12fd6e34b58a9f95afa623991b33ea4
