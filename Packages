@@ -1,18 +1,3 @@
-Package: com.yourcompany.weheartit
-Name: weheartit
-Depends: mobilesubstrate
-Version: 0.0.1
-Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
-Maintainer: System Administrator
-Author: System Administrator
-Section: Tweaks
-Filename: deb/A.deb
-Size: 26408062
-MD5sum: 1E00F5A0D402EB8792B5FB34247AB126
-SHA1: 9FEA2847F45948C2AF32BE7E548EE2FDE29272C3
-SHA256: A75DBB7791A9930377EF453F4FA71B331DD08B8E9AA7198A9429099419393959
-
 
 Package: com.alshaman.s3ud.swip
 Name: swipetodeletecontact معربة
