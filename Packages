@@ -22,7 +22,7 @@ Description: ثيم نايس 211
 Maintainer: سعود الشامان 
 Author: سعود الشامان
 Pre-Depends: firmware (>= 8.0)
-Section: Theme
+Section: Themes
 Filename: deb/nice211.deb
 Size: 645736
 MD5sum: 54ddfcd8d1f07206604b4b2147fbf22d
