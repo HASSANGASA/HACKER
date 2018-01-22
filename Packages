@@ -13,7 +13,6 @@ Size: 4096
 MD5sum: c0d0135866d00d743e29ecc0214d6cad
 
 
-
 Package: com.alshaman.nice211
 Name: Nice 211
 Version: 1.0.0
@@ -26,3 +25,17 @@ Section: Themes
 Filename: deb/nice211.deb
 Size: 645736
 MD5sum: 54ddfcd8d1f07206604b4b2147fbf22d
+
+
+Package: com.alshaman.s3ud.cutecutpro
+Name: Cute CUT pro  
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: تطبيق كت كات برو   
+Maintainer: سعود الشامان 
+Author: سعود الشامان
+Section: Tweaks
+Filename: deb/cutecutpro.deb
+Size: 36491848
+MD5sum: d4dba5ab083a1ea25d503bf8154705c7
