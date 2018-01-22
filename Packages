@@ -28,14 +28,14 @@ MD5sum: 54ddfcd8d1f07206604b4b2147fbf22d
 
 
 Package: com.alshaman.s3ud.cutecutpro
-Name: Cute CUT pro  
+Name: Cute CUT Pro  
 Depends: mobilesubstrate
-Version: 0.0.1
+Version: 1.8.6
 Architecture: iphoneos-arm
-Description: تطبيق كت كات برو   
+Description: Cute CUT Pro تطبيق   
 Maintainer: سعود الشامان 
 Author: سعود الشامان
 Section: Tweaks
 Filename: deb/cutecutpro.deb
-Size: 36491848
-MD5sum: d4dba5ab083a1ea25d503bf8154705c7
+Size: 36212416
+MD5sum: 50e3931263deb681dc44f28e2e621034
