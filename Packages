@@ -1,4 +1,3 @@
-
 Package: com.alshaman.muteCamera
 Name: Mute Camera
 Depends: mobilesubstrate
@@ -52,5 +51,3 @@ Author: ناصر الفهد
 Section: Tweaks
 Size: 2103156
 MD5sum: 73bc971d0dd9e6a94520b7e6c8cf9687
-
-
