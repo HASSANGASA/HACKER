@@ -46,12 +46,11 @@ Name:   Q8DVD
 Depends: mobilesubstrate
 Version: 3.2
 Architecture: iphoneos-arm
-Description:  ًں’™ظ„ظ…ط´ط§ظ‡ط¯ط© ط§ظ„ط£ظپظ„ط§ظ… ط¥ظ‡ط¯ط§ط، ط®ط§طµ ظ„ط£ط¨ظˆ طµظ‚ط±  Q8DVD طھط·ط¨ظٹظ‚  
-Maintainer: ط³ط¹ظˆط¯ ط§ظ„ط´ط§ظ…ط§ظ† 
-Author: ظ†ط§طµط± ط§ظ„ظپظ‡ط¯ 
+Description:  لمشاهدة الأفلام إهداء خاص لأبو صقر  Q8DVD تطبيق  
+Maintainer: سعود الشامان 
+Author: ناصر الفهد 
 Section: Tweaks
-Filename: deb/Q8DVD.deb
-Size: 2103162
-MD5sum: dd52b7702d9f1926a845b99157336c91
+Size: 2103154
+MD5sum: 927e3169c66a2ab8e69cc87d1fc55b4d
 
 
