@@ -40,15 +40,15 @@ Size: 40005010
 MD5sum: dd52b7702d9f1926a845b99157336c91
 
 
-Package: com.alshaman.s3ud.AbuSaqir
+Package: com.alshaman.s3ud.q8dvd
 Name: Q8DVD
 Depends: mobilesubstrate
 Version: 3.2
 Architecture: iphoneos-arm
-Description: لمشاهدة الأفلام إهداء خاص لأبو صقر  Q8DVD تطبيق  
+Description: لمشاهدة الأفلام  Q8DVD تطبيق  
 Maintainer: سعود الشامان 
 Author: ناصر الفهد 
 Section: Tweaks
 Filename: deb/q8dvd.deb
-Size: 2136800
-MD5sum: 1c6ccab5bcaeb1275df3da9918aff378
+Size: 2136774
+MD5sum: 864fb86be47b1e01461e2cac778decfe
