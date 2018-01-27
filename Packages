@@ -52,3 +52,17 @@ Section: Tweaks
 Filename: deb/photoCleaner.deb
 Size: 13005396
 MD5sum: 8b94fb8f23453d0cb5754fc92450e711
+
+
+Package: com.alshaman.q8dvd
+Name: Q8DVD
+Depends: mobilesubstrate
+Version: 3.2
+Architecture: iphoneos-arm
+Description: لمشاهدة الأفلام السينمائية
+Maintainer: سعود الشامان 
+Author: ناصر الفهد
+Section: Tweaks
+Filename: deb/q8dvd.deb
+Size: 2136814
+MD5sum: ad9b376afa615dd68d2178d8a124e827
