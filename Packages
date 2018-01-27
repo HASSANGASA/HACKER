@@ -40,14 +40,15 @@ Size: 40005010
 MD5sum: dd52b7702d9f1926a845b99157336c91
 
 
-Package: com.s3ud.alshaman.q8dvd
-Name: Q8dvd
+Package: com.alshaman.photoCleaner
+Name: Photo Cleaner 
 Depends: mobilesubstrate
-Version: 3.2
+Version: 2.2.3
 Architecture: iphoneos-arm
-Description: لمشاهدة الأفلام Q8DVD تطبيق
-Author: ناصر الفهد
+Description: لحذف الصور المتكررة والعديد من الميزات
+Maintainer: سعود الشامان 
+Author: Jinpyo Hong
 Section: Tweaks
-Filename: deb/q8dvd.deb
-Size: 2136776
-MD5sum: 9cf92f5d40592de54b2c318e17f52d15
+Filename: deb/photoCleaner.deb
+Size: 13005396
+MD5sum: 8b94fb8f23453d0cb5754fc92450e711
