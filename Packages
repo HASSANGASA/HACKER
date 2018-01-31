@@ -48,7 +48,7 @@ Architecture: iphoneos-arm
 Description: لمشاهدة الأفلام Q8DVD تطبيق   
 Maintainer: سعود الشامان 
 Author: ناصر الفهد
-Section: Tweaks
+Section: System
 Filename: deb/q8dvd.deb
 Size: 2136808
 MD5sum: 9812e129370883fc392e955c3c52ab4a
