@@ -1,0 +1,43 @@
+
+Package: com.alshaman.muteCamera
+Name: Mute Camera
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: كتم صوت الكاميرا     
+Maintainer: سعود الشامان 
+Author: سعود الشامان
+Section: Tweaks
+Filename: deb/muteCamera.deb
+Size: 4096
+MD5sum: c0d0135866d00d743e29ecc0214d6cad
+
+
+Package: com.alshaman.nice211
+Name: Nice 211
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: ثيم نايس 211      
+Maintainer: سعود الشامان 
+Author: سعود الشامان
+Pre-Depends: firmware (>= 8.0)
+Section: Themes
+Filename: deb/nice211.deb
+Size: 645736
+MD5sum: 54ddfcd8d1f07206604b4b2147fbf22d
+
+
+Package: com.alshaman.s3ud.cutecutpro
+Name: Cute CUT Pro  
+Depends: mobilesubstrate
+Version: 1.8.9
+Architecture: iphoneos-arm
+Description: Cute CUT Pro تطبيق   
+Maintainer: سعود الشامان 
+Author: سعود الشامان
+Section: Tweaks
+Filename: deb/cuteCUT.deb
+Size: 40005010
+MD5sum: dd52b7702d9f1926a845b99157336c91
+
+
