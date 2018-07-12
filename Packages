@@ -35,6 +35,7 @@ Description: Cute CUT Pro تطبيق
 Maintainer: سعود الشامان 
 Author: سعود الشامان
 Section: Tweaks
+Pre-Depends: firmware (>= 10.3.3)
 Filename: deb/cuteCUT.deb
 Size: 37537248
 MD5sum: 196cfbd545454049b086fb8e463be909
