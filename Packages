@@ -39,4 +39,17 @@ Filename: deb/cuteCUT.deb
 Size: 37537242
 MD5sum: 2f69c5835d0b6df7b8a0bd86293621c5
 
+Package: com.alshaman.s3ud.whatsapp
+Name: WhatsApp 2
+Depends: mobilesubstrate
+Version: 2.18.71.6
+Architecture: iphoneos-arm
+Description: مكرر WhatsApp تطبيق
+Maintainer: سعود الشامان 
+Author: سعود الشامان
+Section: Tweaks
+Filename: deb/whatsapp.deb
+Size: 63073266
+MD5sum: 92084841030465a3bce41d9099c62177
+
 
