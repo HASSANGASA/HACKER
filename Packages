@@ -53,3 +53,15 @@ Size: 63073312
 MD5sum: 3269656d2b2ce77c422ce5991a860ed3
 
 
+Package: com.alshaman.s3ud.ccrecord
+Name: CCRecord
+Depends: firmware (<=11.0), mobilesubstrate
+Version: 1.0.6
+Architecture: iphoneos-arm
+Description: تصوير الشاشة فيديو
+Maintainer: سعود الشامان 
+Author: سعود الشامان
+Section: Tweaks
+Filename: deb/ccrecord.deb
+Size: 3656
+MD5sum: c47ab010ed54e869705aaa79938ecf67
