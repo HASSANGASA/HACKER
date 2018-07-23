@@ -40,18 +40,18 @@ Size: 37537242
 MD5sum: 2f69c5835d0b6df7b8a0bd86293621c5
 
 
-Package: com.alshaman.s3ud.ccrecord
-Name: CCRecord
+Package: com.alshaman.WhatsApp
+Name: WhatsApp Watusi 
 Depends: firmware (<=11.0), mobilesubstrate
-Version: 1.0.6
+Version: 2.18.71
 Architecture: iphoneos-arm
-Description: تصوير الشاشة فيديو
+Description: تطبيق واتساب مكرر يعمل مع اداة Watusi     
 Maintainer: سعود الشامان 
 Author: سعود الشامان
 Section: Tweaks
-Filename: deb/ccrecord.deb
-Size: 3656
-MD5sum: c47ab010ed54e869705aaa79938ecf67
+Filename: deb/Whats.deb
+Size: 66705584
+MD5sum: b094b34a0b7cec2d03f858b6e5485294
 
 
 Package: com.yourepo.s3ud.ccrecord
