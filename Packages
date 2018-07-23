@@ -39,19 +39,6 @@ Filename: deb/cuteCUT.deb
 Size: 37537242
 MD5sum: 2f69c5835d0b6df7b8a0bd86293621c5
 
-Package: com.alshaman.s3ud.whatsapp
-Name: WhatsApp 2 for iOS 11
-Depends: firmware (>=11.0), mobilesubstrate
-Version: 2.18.71.6
-Architecture: iphoneos-arm
-Description:  مكرر بدون إضافات WhatsApp تطبيق
-Maintainer: سعود الشامان 
-Author: سعود الشامان
-Section: Tweaks
-Filename: deb/whatsapp.deb
-Size: 63073312
-MD5sum: 3269656d2b2ce77c422ce5991a860ed3
-
 
 Package: com.alshaman.s3ud.ccrecord
 Name: CCRecord
@@ -62,6 +49,19 @@ Description: تصوير الشاشة فيديو
 Maintainer: سعود الشامان 
 Author: سعود الشامان
 Section: Tweaks
+Filename: deb/ccrecord.deb
+Size: 3656
+MD5sum: c47ab010ed54e869705aaa79938ecf67
+
+
+Package: com.yourepo.s3ud.ccrecord
+Name: CCRecord
+Version: 0.0.1-2
+Architecture: iphoneos-arm
+Description: اداة تصوير الشاشة ( فيديو ) , ستظهر الأداة في مركز التحكم
+Author: cole cabral @ca13ra1
+Section: Tweaks
+Depends: mobilesubstrate
 Filename: deb/ccrecord.deb
 Size: 3656
 MD5sum: c47ab010ed54e869705aaa79938ecf67
