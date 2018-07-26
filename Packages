@@ -40,6 +40,19 @@ Size: 37537242
 MD5sum: 2f69c5835d0b6df7b8a0bd86293621c5
 
 
+Package: com.alshaman.WhatsApp
+Name: WhatsApp Watusi for iOS 11
+Depends: firmware (>=11.0), mobilesubstrate
+Version: 2.18.71
+Architecture: iphoneos-arm
+Description: تطبيق واتساب مكرر يعمل مع اداة Watusi     
+Maintainer: سعود الشامان 
+Author: عثمان المطيري
+Section: Tweaks
+Filename: deb/Whats.deb
+Size: 57659640
+MD5sum: a6d8c4a30fec0b9435abcc3043d78878
+
 Package: com.alshaman.WhatsApp1
 Name: WhatsApp Watusi for iOS 8/9/10
 Depends: firmware (<=11.0), mobilesubstrate
@@ -53,18 +66,7 @@ Filename: deb/Whats1.deb
 Size: 74978516
 MD5sum: adfef9d12dfaf4053d94bac97cac9637
 
-Package: com.alshaman.WhatsApp
-Name: WhatsApp Watusi for iOS 11
-Depends: firmware (>=11.0), mobilesubstrate
-Version: 2.18.71
-Architecture: iphoneos-arm
-Description: تطبيق واتساب مكرر يعمل مع اداة Watusi     
-Maintainer: سعود الشامان 
-Author: عثمان المطيري
-Section: Tweaks
-Filename: deb/Whats.deb
-Size: 57659640
-MD5sum: a6d8c4a30fec0b9435abcc3043d78878
+
 
 
 Package: com.yourepo.s3ud.ccrecord
