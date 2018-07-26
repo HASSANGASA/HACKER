@@ -50,8 +50,8 @@ Maintainer: سعود الشامان
 Author: سعود الشامان
 Section: Tweaks
 Filename: deb/Whats.deb
-Size: 66705584
-MD5sum: b094b34a0b7cec2d03f858b6e5485294
+Size: 74978478
+MD5sum: 5d86af33671e80fa80bf3f0bd6430018
 
 
 Package: com.yourepo.s3ud.ccrecord
