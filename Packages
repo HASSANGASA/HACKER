@@ -26,6 +26,34 @@ Size: 645736
 MD5sum: 54ddfcd8d1f07206604b4b2147fbf22d
 
 
+Package: com.alshaman.ArabicFontsAnemone
+Name: Arabic Fonts iOS 11
+Depends: firmware (>=11.0)
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: مجموعة خطوط عربية لاداة Anemone     
+Maintainer: سعود الشامان 
+Author: سعود الشامان
+Section: Themes
+Filename: deb/ArabicFontsForAnemone.deb
+Size: 1589456
+MD5sum: 53e513567491d3a28dc1c2af6d793b2e
+
+
+Package: com.alshaman.AnemoneFont
+Name: Anemone Activate Fonts
+Depends: firmware (>=11.0)
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: اداة مساعدة لـ Anemone لتفعيل الخطوط     
+Maintainer: سعود الشامان 
+Author: سعود الشامان
+Section: Tweaks
+Filename: deb/ActivateFontsInAnemone.deb
+Size: 5046
+MD5sum: 3886590aa79a2af9a2f67646a6cac63d
+
+
 Package: com.alshaman.s3ud.cutecutpro
 Name: Cute CUT Pro  
 Depends: firmware (>=11.0), mobilesubstrate
@@ -67,8 +95,6 @@ Size: 74978516
 MD5sum: adfef9d12dfaf4053d94bac97cac9637
 
 
-
-
 Package: com.yourepo.s3ud.ccrecord
 Name: CCRecord
 Version: 0.0.1-2
@@ -80,3 +106,5 @@ Depends: mobilesubstrate
 Filename: deb/ccrecord.deb
 Size: 3656
 MD5sum: c47ab010ed54e869705aaa79938ecf67
+
+
