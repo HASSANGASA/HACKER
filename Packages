@@ -108,3 +108,15 @@ Size: 3656
 MD5sum: c47ab010ed54e869705aaa79938ecf67
 
 
+Package: com.alshaman.BytaFont3
+Name: BytaFont 3 iOS 10.x
+Depends: firmware (<=11.0), mobilesubstrate
+Version: 3.1.6
+Architecture: iphoneos-arm
+Description: اداة BytaFont 3 متوافقة الى iOS 10.3.3     
+Maintainer: سعود الشامان 
+Author: سعود الشامان 
+Section: Tweaks
+Filename: deb/BytaFont3.deb
+Size: 1996728
+MD5sum: c345c43cb774edd2c667f3ac94460160
