@@ -40,6 +40,20 @@ Size: 1589456
 MD5sum: 7c6ce62c1c404b6caff93ffb7fe433f3
 
 
+Package: com.alshaman.ArabicFontsBytaFontTweakMode
+Name: Arabic Fonts BytaFont Tweak Mode
+Depends: firmware (<=11.0)
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: مجموعة خطوط عربية لاداة BytaFont Tweak Mode     
+Maintainer: سعود الشامان 
+Author: سعود الشامان
+Section: Themes
+Filename: deb/ArFontsBytaFontTweakMode.deb
+Size: 4107064
+MD5sum: 4490889ff12b521379816c7b4fb761c5
+
+
 Package: com.alshaman.AnemoneFont
 Name: Anemone Activate Fonts
 Depends: firmware (>=11.0)
