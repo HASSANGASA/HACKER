@@ -138,7 +138,7 @@ MD5sum: c345c43cb774edd2c667f3ac94460160
 
 Package: com.alshaman.BytaFont3To11
 Name: BytaFont3 iOS 11 Test
-Depends: firmware (<=11.0), mobilesubstrate
+Depends: firmware (>=11.0), mobilesubstrate
 Version: 1.0.0
 Architecture: iphoneos-arm
 Description: Test BytaFont3 To iOS 11     
@@ -147,4 +147,4 @@ Author: سعود الشامان
 Section: Tweaks
 Filename: deb/BytaFont3To11.deb
 Size: 1429236
-MD5sum: a4a63770b253d3ca87c14b3f59d8d5d7
+MD5sum: 5ed456c9f8bca37b7f48ae7ac322401c
