@@ -150,3 +150,16 @@ Filename: deb/com.bytafont.bytafont3_3.5.deb
 Size: 779608
 MD5sum: f92504aff4839e10c6562ba190ae8b85
 
+
+Package: com.Show.ToolsInSettings
+Version: 1.0.0
+Section: Scripting
+Maintainer: سعود الشامان <alahaman64@gmail.com>
+Architecture: iphoneos-arm
+Name: Show Tools_Settings 
+Author: SAUD AL.SHAMAN
+Description: Show Cydia Tools in Settings
+Depends: firmware (>= 11)
+Filename: deb/ShCyToolsInSett.deb
+Size: 832
+MD5sum: bc8c28c5717d190290dbdddf02bb92d8
