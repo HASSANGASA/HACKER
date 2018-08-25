@@ -161,5 +161,5 @@ Author: SAUD AL.SHAMAN
 Description: Show Cydia Tools in Settings
 Depends: mobilesubstrate,firmware (>= 11)
 Filename: deb/ShCyToolsInSett.deb
-Size: 902
-MD5sum: 812b54b632d8cd087a79a6b40756c195
+Size: 920
+MD5sum: 2db13170e4fbe820a3e0adcd3f5ee623
