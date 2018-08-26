@@ -152,7 +152,7 @@ MD5sum: f92504aff4839e10c6562ba190ae8b85
 
 
 Package: com.Show.ToolsInSettings
-Version: 1.0.0
+Version: 1.0.3
 Section: Scripting
 Maintainer: سعود الشامان <alahaman64@gmail.com>
 Architecture: iphoneos-arm
@@ -161,5 +161,5 @@ Author: SAUD AL.SHAMAN
 Description: Show Cydia Tools in Settings
 Depends:firmware (>= 11)
 Filename: deb/ShCyToolsInSett.deb
-Size: 820
-MD5sum: 638efe42b9fc4582557877347f50889e
+Size: 862
+MD5sum: 60fd031b948e875c88ea3df26b48a211
