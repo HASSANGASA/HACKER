@@ -163,3 +163,18 @@ Depends:firmware (>= 11)
 Filename: deb/ShCyToolsInSett.deb
 Size: 862
 MD5sum: 60fd031b948e875c88ea3df26b48a211
+
+
+Package: s3ud.alshaman.cercube3foryoutube
+Version: 4.2.2.5k
+Section: Tweaks
+Maintainer: SAUD AL.SHAMAN <alahaman64@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate, me.alfhaily.adblockforyoutube (>= 1.0.7), com.rpetrich.rocketbootstrap, me.alfhaily.cercube.lib (>= 1.0.9)
+Conflicts: me.freemanrepo.cercube, com.unlimapps.ytpp, com.yourepo.goldcydia.cercube3ios789, com.yourepo.mohadu31.cercube3ios789, com.yourepo.canolli.cercube3ios789, com.repo.xarold.com.cercube3, com.hackyouriphone.cercube3, com.biteyourapple.net.cercube3, com.yourepo.arabicydia.cercube2
+Architecture: iphoneos-arm
+Name: Cercube for YouTube Cracked
+Author: Majd Alfhaily
+Icon: file:///Library/Application%20Support/Cercube/Cercube.bundle/AppIcon.png
+Filename: deb/CercubeForYouTubeCracked.deb
+Size: 2815206
+MD5sum: a0c961aaff2923240fc583c4b6633089
