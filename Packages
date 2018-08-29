@@ -178,3 +178,18 @@ Icon: file:///Library/Application%20Support/Cercube/Cercube.bundle/AppIcon.png
 Filename: deb/CercubeForYouTubeCracked.deb
 Size: 2815206
 MD5sum: a0c961aaff2923240fc583c4b6633089
+
+
+
+Package: com.alshaman.FixGameGem
+Version: 1.0.0
+Section: Scripting
+Maintainer: سعود الشامان <alahaman64@gmail.com>
+Architecture: iphoneos-arm
+Name: Fix GameGem 
+Author: SAUD AL.SHAMAN
+Description: Fix GameGem for iOS 11
+Depends:firmware (>= 11)
+Filename: deb/fixGame.deb
+Size: 804
+MD5sum: e82ca17121a3eef8aa32d3764e63c5af
