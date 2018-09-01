@@ -181,15 +181,17 @@ MD5sum: a0c961aaff2923240fc583c4b6633089
 
 
 
-Package: com.alshaman.FixGameGem
-Version: 1.0.0
-Section: Scripting
-Maintainer: سعود الشامان <alahaman64@gmail.com>
+Package: com.alshaman.DisableRestrictions
+Name: Disable Restrictions
+Version: 1.0.1
 Architecture: iphoneos-arm
-Name: Fix GameGem 
-Author: SAUD AL.SHAMAN
-Description: Fix GameGem for iOS 11
-Depends:firmware (>= 11)
-Filename: deb/fixGame.deb
-Size: 804
-MD5sum: e82ca17121a3eef8aa32d3764e63c5af
+Description: تعطيل رمز القيود     
+Maintainer: سعود الشامان <alahaman64@gmail.com>
+Author: سعود الشامان <alahaman64@gmail.com>
+Section: Scripting
+Filename: deb/DisableRestrictions.deb
+Size: 774
+MD5sum: 6f45778d6b38a46c02bd55ece978daf9
+
+
+
