@@ -194,4 +194,24 @@ Size: 774
 MD5sum: 6f45778d6b38a46c02bd55ece978daf9
 
 
-
+Package: com.fouadraheb.watusi
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 1.5.0), com.rpetrich.rocketbootstrap, applist
+Conflicts: com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools
+Replaces: org.thebigboss.watusi
+Name: Watusi 2 for WhatsApp Cracked
+Version: 1.0.59
+Architecture: iphoneos-arm
+Description: The all-in-one tweak for WhatsApp Messenger
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=watusi2Dp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=watusi2Dp
+Installed-Size: 11412
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Section: Tweaks
+dev: f0u4d
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+Icon: file:///Library/PreferenceBundles/WatusiPrefs.bundle/icon@2x.png
+Filename: deb/com.fouadraheb.watusi.deb
+Size: 2525802
+MD5sum: 027526022538f481193abf09c0041040
