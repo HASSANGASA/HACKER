@@ -7,8 +7,8 @@ Maintainer: سعود الشامان <alahaman64@gmail.com>
 Author: SAUD AL.SHAMAN <alahaman64@gmail.com>
 Section: Scripting
 Filename: deb/muteCamera.deb
-Size: 830
-MD5sum: 05ebf63783c95f3c346638511389cfef
+Size: 854
+MD5sum: 0ffc760a7bd8687c78a2d1bf5e799f1c
 
 
 Package: com.alshaman.nice211
