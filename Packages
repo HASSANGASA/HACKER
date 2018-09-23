@@ -1,15 +1,14 @@
 Package: com.alshaman.muteCamera
 Name: Mute Camera
-Depends: mobilesubstrate
-Version: 1.0.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Description: كتم صوت الكاميرا     
-Maintainer: سعود الشامان 
-Author: سعود الشامان
-Section: Tweaks
+Maintainer: سعود الشامان <alahaman64@gmail.com>
+Author: SAUD AL.SHAMAN <alahaman64@gmail.com>
+Section: Scripting
 Filename: deb/muteCamera.deb
-Size: 754
-MD5sum: 1cd304805f6244d7d625e1ca78130ac1
+Size: 830
+MD5sum: 05ebf63783c95f3c346638511389cfef
 
 
 Package: com.alshaman.nice211
