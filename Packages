@@ -227,3 +227,16 @@ Section: Tweaks
 Filename: deb/Textastic.deb
 Size: 6390032
 MD5sum: 879f45ad3c2d784b6afff7c8a427219b
+
+
+Package: com.alshaman.radarbot
+Name: Radarbot Pro
+Version: 4.1
+Architecture: iphoneos-arm
+Description: تطبيق كاشف كاميرات السرعة و الشرطة
+Maintainer: Saud Al.shaman <alshaman64@gmail.com>
+Author: Saud Al.shaman <alshaman64@gmail.com>
+Section: Tweaks
+Filename: deb/radarbote.deb
+Size: 17343698
+MD5sum: 5ebb38fa8874d7e17468d43f26b4ca44
