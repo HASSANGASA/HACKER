@@ -216,3 +216,14 @@ Size: 2533992
 MD5sum: e9181b4e6ebfeaace58a1f5e7ba30cef
 
 
+Package: com.alshaman.textastic
+Name: Textastic Code Editor 7
+Version: 6.0
+Architecture: iphoneos-arm
+Description: تطبيق لتحرير الاكواد
+Maintainer: Saud Al.shaman <alshaman64@gmail.com>
+Author: Saud Al.shaman <alshaman64@gmail.com>
+Section: Tweaks
+Filename: deb/Textastic.deb
+Size: 6390032
+MD5sum: 879f45ad3c2d784b6afff7c8a427219b
