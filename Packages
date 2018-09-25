@@ -240,3 +240,18 @@ Section: Tweaks
 Filename: deb/radarbote.deb
 Size: 17343698
 MD5sum: 5ebb38fa8874d7e17468d43f26b4ca44
+
+
+Package: com.iosgods.8ballpool
+Name: 8ball pool
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: DemiGod
+Author: DemiGod
+Section: Tweaks
+Version: 0.0.1-2
+Installed-Size: 136
+Filename: deb/8ballpool.deb
+Size: 5792
+MD5sum: af6cb34dbf6aed1be27c0469fd8bdd51
