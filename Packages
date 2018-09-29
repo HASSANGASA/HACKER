@@ -270,3 +270,19 @@ Filename: deb/q8dvd.deb
 Size: 2791738
 MD5sum: c4183ffe31a78ad3f6cdedabbf615687
 
+
+Package: s3ud.alshaman.cercubejbmeridian
+Version: 4.2.2.5k
+Section: Tweaks
+Maintainer: SAUD AL.SHAMAN <alahaman64@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate, me.alfhaily.adblockforyoutube (>= 1.0.7), com.rpetrich.rocketbootstrap, me.alfhaily.cercube.lib (>= 1.0.9)
+Conflicts: me.freemanrepo.cercube, com.unlimapps.ytpp, com.yourepo.goldcydia.cercube3ios789, com.yourepo.mohadu31.cercube3ios789, com.yourepo.canolli.cercube3ios789, com.repo.xarold.com.cercube3, com.hackyouriphone.cercube3, com.biteyourapple.net.cercube3, com.yourepo.arabicydia.cercube2
+Architecture: iphoneos-arm
+Name: Cercube for YouTube JB Meridian
+Author: Majd Alfhaily
+Icon: file:///Library/Application%20Support/Cercube/Cercube.bundle/AppIcon.png
+Filename: deb/CercubeforYouTubeJBMeridian.deb
+Size: 2815090
+MD5sum: d8e100ccb78070feb70d1eb7ec720e68
+
+
