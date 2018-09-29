@@ -255,3 +255,18 @@ Installed-Size: 136
 Filename: deb/8ballpool.deb
 Size: 5792
 MD5sum: af6cb34dbf6aed1be27c0469fd8bdd51
+
+
+
+Package: com.alshaman.q8dvd
+Name: Q8DVD
+Version: 3.3
+Architecture: iphoneos-arm
+Description: تطبيق مشاهدة الافلام السينمائية
+Maintainer: Saud Al.shaman <alshaman64@gmail.com>
+Author: Saud Al.shaman <alshaman64@gmail.com>
+Section: Tweaks
+Filename: deb/q8dvd.deb
+Size: 2791738
+MD5sum: c4183ffe31a78ad3f6cdedabbf615687
+
