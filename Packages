@@ -316,3 +316,20 @@ Filename: deb/EmojiLibrary.deb
 Size: 39554
 MD5sum: 52fff25dbe68c5eddf70de6aa5b0b8d9
 
+
+Package: com.ps.emojiportwt
+Name: EmojiPort (iOS 10.0-11.4)
+Depends: mobilesubstrate, firmware (>= 10.0), firmware (<< 12.1), com.ps.emojiattributes, com.ps.emojilibrary
+Conflicts: com.ps.emoji10wt
+Architecture: iphoneos-arm
+Description: Latest emojis for iOS 10.0-11.4
+Maintainer: PoomSmart
+Author: PoomSmart
+Section: Tweaks
+Depiction: https://poomsmart.github.io/repo/emojiportwt/index.html
+Version: 1.2.1
+Installed-Size: 51424
+Filename: deb/EmojiPort.deb
+Size: 6350406
+MD5sum: 41c6d6a6cdcf6afc550984ab20eb1d53
+
