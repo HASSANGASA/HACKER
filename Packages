@@ -333,3 +333,18 @@ Filename: deb/EmojiPort.deb
 Size: 6350406
 MD5sum: 41c6d6a6cdcf6afc550984ab20eb1d53
 
+
+Package: com.kiengk0eng.vpnmaster
+Name:  VPN Master™ (VIP)!
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Faster Connection, Worldwide Server, No Ads
+Maintainer: kiengk0eng <kiengk0eng@yahoo.com>
+Author: kiengk0eng <kiengk0eng@yahoo.com>
+Section: Utilities
+Depiction: https://kiengk0eng.github.io/depictions/vpnmaster/index.html
+Version: 2.7.2
+Filename: deb/VPN_Master.deb
+Size: 7040
+MD5sum: 84077b388b3eed964b67a3c049c35e26
+
