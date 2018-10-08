@@ -348,3 +348,18 @@ Filename: deb/VPN_Master.deb
 Size: 7040
 MD5sum: 84077b388b3eed964b67a3c049c35e26
 
+
+
+Package: com.kiengk0eng.focos
+Name: Focos™ (VIP)!
+Version: 1.5.3
+Section: Utilities
+Description: Hack Focos
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Maintainer: kiengk0eng <kiengk0eng@yahoo.com>
+Author: kiengk0eng <kiengk0eng@yahoo.com>
+Filename: deb/focoshack.deb
+Size: 3114
+MD5sum: 853349ea26a8007ee7ce66e052d8a13e
+
