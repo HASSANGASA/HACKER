@@ -393,3 +393,17 @@ Size: 3110
 MD5sum: 65d27ef468906d704d2101184e3346ed
 
 
+Package: com.kiengk0eng.camscanner
+Name: CamScanner™ (Premium)!
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Collage, Auto upload to third-party cloud service, High quality scan, Export OCR result, No default watermark on PDF, Created unlimited number of folder
+Maintainer: kiengk0eng <kiengk0eng@yahoo.com>
+Author: kiengk0eng <kiengk0eng@yahoo.com>
+Section: Utilities
+Depiction: https://kiengk0eng.github.io/depictions/camscanner/index.html
+Version: 5.5.2.16205
+Filename: deb/camscanner.deb
+Size: 5828
+MD5sum: 09f228a492b61c580c459b9d9067ca51
+
