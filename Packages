@@ -379,3 +379,17 @@ Filename: deb/weatherlive.deb
 Size: 6270
 MD5sum: 48dd012ea4c5c5c6366927af4a8ca7b6
 
+
+Package: com.alshaman.cutecuthack
+Version: 0.0.1-1
+Section: Utilities
+Maintainer: Saud Al.shaman <alshaman64@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Name: CuteCut Pro
+Author: iHack102
+Filename: deb/cutecutpro.deb
+Size: 3110
+MD5sum: 65d27ef468906d704d2101184e3346ed
+
+
