@@ -363,3 +363,19 @@ Filename: deb/focoshack.deb
 Size: 3114
 MD5sum: 853349ea26a8007ee7ce66e052d8a13e
 
+
+
+Package: com.kiengk0eng.weatherlive
+Name: Weather™ Live (Premium)!
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: No Ads, Interactive weather maps, Hurricane tracker
+Maintainer: kiengk0eng <kiengk0eng@yahoo.com>
+Author: kiengk0eng <kiengk0eng@yahoo.com>
+Section: Productivity
+Depiction: https://kiengk0eng.github.io/depictions/weatherlive/index.html
+Version: 5.8
+Filename: deb/weatherlive.deb
+Size: 6270
+MD5sum: 48dd012ea4c5c5c6366927af4a8ca7b6
+
