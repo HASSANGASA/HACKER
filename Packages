@@ -422,3 +422,18 @@ Filename: deb/voicepremium.deb
 Size: 5074
 MD5sum: 0a3710a0c38b7d43282a5f296f3770f7
 
+
+
+Package: com.kiengk0eng.shazam
+Version: 11.7.0
+Section: Utilities
+Maintainer: kiengk0eng <kiengk0eng@yahoo.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Name: Shazam® (Paid)!
+Author: kiengk0eng <kiengk0eng@yahoo.com>
+Filename: deb/shazam.deb
+Size: 5202
+MD5sum: 8b89a0fde345e89249ca3dfdb2c3d981
+
+
