@@ -436,4 +436,16 @@ Filename: deb/shazam.deb
 Size: 5200
 MD5sum: 71cdfbe579404ddb6e539971a3605bef
 
+Package: com.alshaman.fixfixEmoji
+Name: Fix Emoji iOS 10
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: اصلاح مشكلة اختفاء الفيسات   
+Maintainer: سعود الشامان 
+Author: سعود الشامان
+Section: Tweaks
+Filename: deb/fixEmoji.deb
+Size: 97120344
+MD5sum: dd495dec369ab5a48411f0f674db8591
 
