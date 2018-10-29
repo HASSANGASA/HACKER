@@ -453,15 +453,15 @@ MD5sum: dd495dec369ab5a48411f0f674db8591
 Package: com.alshaman.emoji12
 Name: Get Emoji iOS 12
 Depends: mobilesubstrate, com.ps.emojiportwt
-Version: 0.0.1
+Version: 0.0.2
 Architecture: iphoneos-arm
 Description: الحصول على Emoji iOS 12
 Maintainer:  Saud Al.shaman <alshaman64@gmail.com>
 Author: Saud Al.shaman <alshaman64@gmail.com>
 Section: Tweaks
 Filename: deb/emoji12.deb
-Size: 48049070
-MD5sum: 494369e94065e131e2cbe943ee56d1d3
+Size: 48049262
+MD5sum: 018f5abf6d00c6798d42b96e4e09d713
 
 
 Package: com.alshaman.stickers.whats
