@@ -465,15 +465,15 @@ MD5sum: 494369e94065e131e2cbe943ee56d1d3
 
 
 Package: com.alshaman.stickers.whats
-Name: Stickers Whats
+Name: Whats Stickers
 Version: 1.0
 Architecture: iphoneos-arm
 Description: Add Stickers to WhatsApp
 Maintainer: Saud Al.shaman <alshaman64@gmail.com>
 Author: Saud Al.shaman <alshaman64@gmail.com>
 Section: Tweaks
-Filename: deb/StickersWhats.deb
-Size: 11162156
-MD5sum: b1716b605665fb73cfd1b8bc10cc84f1
+Filename: deb/WhatsStickers.deb
+Size: 11162158
+MD5sum: 9716af17f62cc7dd85d390bd43a7e63b
 
 
