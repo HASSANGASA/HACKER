@@ -477,3 +477,16 @@ Size: 12989900
 MD5sum: 6a1c10c7f974a7b354a5d1c494c4ecbb
 
 
+Package: s3ud.alshaman.icontool
+Version: 1.9-7
+Section: Tweaks
+Maintainer: SAUD AL.SHAMAN <alahaman64@gmail.com> 
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 5.0), preferenceloader (>= 2.2.2), com.ericasadun.utilities
+Conflicts: com.rpetrich.iconrenamer
+Architecture: iphoneos-arm
+Name: Icon Tool Cracked
+Author: ioshack
+Icon: file:///Library/PreferenceLoader/Preferences/IconTool/IconTool@2x.png
+Filename: deb/icontool.deb
+Size: 493292
+MD5sum: c31ffb91a24462f902e7f019b80891d2
