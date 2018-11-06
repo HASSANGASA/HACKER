@@ -490,3 +490,19 @@ Icon: file:///Library/PreferenceLoader/Preferences/IconTool/IconTool@2x.png
 Filename: deb/icontool.deb
 Size: 493292
 MD5sum: c31ffb91a24462f902e7f019b80891d2
+
+
+Package: s3ud.alshaman.phantomlite
+Name: Phantom (Lite) معربه
+Version: 5.3.8-4
+Architecture: iphoneos-arm
+Description: اداة الفانتـــوم للسناب شـات , مكركه ومــــعربة
+Author: CokePokes <cokepokes@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap, firmware (>= 10.3.3)
+Conflicts: com.n00neimp0rtant.picarchiver, com.thomasfinch.snapchatsound, com.timecompiler.snapchatlog, com.perascotta.snapmoretext, com.bengerard.snapselect, com.ridan.allsnap, com.drp.snapmaster, com.skylerk99.snapprefs, com.abcapps.snapplus, com.jonluca.sclenses4all, com.cokepokes.libphantom, com.cokepokes.phantom, tv.othman.scothman
+Icon: file:///Library/PreferenceBundles/phlite.bundle/phantomIcon@2x.png
+Filename: deb/PhantomLiteCracked_5.3.8-4.deb
+Size: 10145974
+MD5sum: ed7276250669228786b40a7e1f1bc9e8
+
