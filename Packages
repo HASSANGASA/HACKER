@@ -522,3 +522,16 @@ Size: 15318680
 MD5sum: 6af73549ceff2a8d8df54dd8eb00b2f7
 
 
+Package: com.alshaman.icleanerpro
+Name: iCleaner Pro Cracked
+Version: 7.7.0
+Architecture: iphoneos-arm
+Description: تنظيف النظام من مخلفات التصفح وبعض الميزات الاخرى | نسخة مكركه بدون إعلانات 
+Depends: firmware (>= 9.0), apt7, findutils, shell-cmds
+Conflicts: org.altervista.exilecom.icleaner, com.exile90.icleanerpro
+Maintainer: Saud Al.shaman <alshaman64@gmail.com>
+Author: Saud Al.shaman <alshaman64@gmail.com>
+Section: Tweaks
+Filename: deb/icleanerproCraked.deb
+Size: 2356440
+MD5sum: 101467c00bc3ed4359ea14d67b0a1682
