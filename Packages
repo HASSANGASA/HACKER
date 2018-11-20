@@ -554,3 +554,18 @@ Size: 17802442
 MD5sum: 2bbf8065ba36f9241abc805575203eeb
 
 
+Package: com.s3ud.alshaman.betternet.premium
+Name: Betternet Premium
+Version: 4.0.1 
+Architecture: iphoneos-arm
+Description: Crack app Betternet
+Maintainer: Saud Al.shaman <alshaman64@gmail.com>
+Author: Saud Al.shaman <alshaman64@gmail.com>
+Section: Utilities
+Filename: deb/com.s3ud.alshaman.betternet.premium_4.0.1_iphoneos-arm.deb
+Size: 3002
+MD5sum: 03e2f95a9e25b53a5611c8c7fa46fd43
+
+
+
+
