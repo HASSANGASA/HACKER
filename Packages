@@ -578,3 +578,17 @@ Section: Utilities
 Filename: deb/com.s3ud.alshaman.hexatech.premium_2.0.1_iphoneos-arm.deb
 Size: 3150
 MD5sum: a0570b0904177cbf344c15928c5a4ae6
+
+
+
+Package: com.s3ud.alshaman.textnow.removeads 
+Name: TextNow Remove Ads 
+Version: 9.1.0
+Architecture: iphoneos-arm
+Description: Crack app TextNow
+Maintainer: Saud Al.shaman <alshaman64@gmail.com>
+Author: Saud Al.shaman <alshaman64@gmail.com>
+Section: Utilities
+Filename: deb/com.s3ud.alshaman.textnow.removeads_9.1.0_iphoneos-arm.deb
+Size: 3136
+MD5sum: edd08b513abc2cf6fc3e6ebaca96f6b4
