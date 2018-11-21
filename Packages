@@ -605,3 +605,16 @@ Section: Utilities
 Filename: deb/com.s3ud.alshaman.filterloop.premium_3.3.10_iphoneos-arm.deb
 Size: 3186
 MD5sum: 89e95b8d45947012a9f4d801b116c07b
+
+
+Package: com.s3ud.alshaman.videocrop.pro
+Name: Video Crop Pro
+Version: 2.2
+Architecture: iphoneos-arm
+Description: Crack app Video Crop
+Maintainer: Saud Al.shaman <alshaman64@gmail.com>
+Author: Saud Al.shaman <alshaman64@gmail.com>
+Section: Utilities
+Filename: deb/com.s3ud.alshaman.videocrop.pro_2.2_iphoneos-arm.deb
+Size: 1900
+MD5sum: e93690fe16520e1e0bce271f8c5f7388
