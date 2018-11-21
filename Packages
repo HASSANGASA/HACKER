@@ -509,17 +509,16 @@ MD5sum: ed7276250669228786b40a7e1f1bc9e8
 
 Package: com.s3ud.alshaman.iCrack
 Name: iCrack
-Version: 1.0
-Depends: firmware (>= 9.0), firmware (<= 10.3.3)
+Version: 1.1
 Architecture: iphoneos-arm
 Description: تكريك التطبيقات و الأدوات   
 Maintainer: Saud Al.shaman <alshaman64@gmail.com>
 Author: Saud Al.shaman <alshaman64@gmail.com>
 Section: Tweaks
 Icon: file:///Applications/iCrack.app/iCrack.png
-Filename: deb/com.s3ud.alshaman.iCrack_1.0_iphoneos-arm.deb
-Size: 15318680
-MD5sum: 6af73549ceff2a8d8df54dd8eb00b2f7
+Filename: deb/com.s3ud.alshaman.iCrack_1.1_iphoneos-arm.deb
+Size: 15318644
+MD5sum: c2ba706ab6d78f41017123f12fa54f1e
 
 
 Package: com.alshaman.icleanerpro
