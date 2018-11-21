@@ -567,5 +567,14 @@ Size: 3108
 MD5sum: b5405458ac330e485126ad32f6d4d7ce
 
 
-
-
+Package: com.s3ud.alshaman.hexatech.premium 
+Name: Hexatech Premium 
+Version: 2.0.1
+Architecture: iphoneos-arm
+Description: Crack app Hexatech
+Maintainer: Saud Al.shaman <alshaman64@gmail.com>
+Author: Saud Al.shaman <alshaman64@gmail.com>
+Section: Utilities
+Filename: deb/com.s3ud.alshaman.hexatech.premium_2.0.1_iphoneos-arm.deb
+Size: 3160
+MD5sum: bb677aa0a8fffa45db4668a2cf44c99b
