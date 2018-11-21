@@ -592,3 +592,16 @@ Section: Utilities
 Filename: deb/com.s3ud.alshaman.textnow.removeads_9.1.0_iphoneos-arm.deb
 Size: 3244
 MD5sum: 0f8d1a2b90eea11f05fbdf626d733181
+
+
+Package: com.s3ud.alshaman.filterloop.premium 
+Name: Filterloop Premium   
+Version: 3.3.10
+Architecture: iphoneos-arm
+Description: Crack app Filterloop
+Maintainer: Saud Al.shaman <alshaman64@gmail.com>
+Author: Saud Al.shaman <alshaman64@gmail.com>
+Section: Utilities
+Filename: deb/com.s3ud.alshaman.filterloop.premium_3.3.10_iphoneos-arm.deb
+Size: 3186
+MD5sum: 89e95b8d45947012a9f4d801b116c07b
