@@ -617,3 +617,17 @@ Section: Utilities
 Filename: deb/com.s3ud.alshaman.videocrop.pro_2.2_iphoneos-arm.deb
 Size: 3110
 MD5sum: 78207541faa161bfbc1e6840c9a9778f
+
+
+Package: com.s3ud.alshaman.reelcallerplus
+Name: Reel Caller Plus Remove Ads
+Version: 1.6.7
+Architecture: iphoneos-arm
+Description: Crack app Reel Caller Plus
+Maintainer: Saud Al.shaman <alshaman64@gmail.com>
+Author: Saud Al.shaman <alshaman64@gmail.com>
+Section: Utilities
+Filename: deb/com.s3ud.alshaman.reelcallerplus_1.6.7_iphoneos-arm.deb
+Size: 3164
+MD5sum: a3ab034937b87a6c8acd7dcb3244b234
+
