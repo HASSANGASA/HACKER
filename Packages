@@ -645,3 +645,14 @@ Size: 3154
 MD5sum: f3f634982c9071d92b81090df10c6f62
 
 
+Package: com.s3ud.alshaman.manly
+Name: Manly Pro
+Version: 1.6.6
+Architecture: iphoneos-arm
+Description: Crack app Manly
+Maintainer: Saud Al.shaman <alshaman64@gmail.com>
+Author: Saud Al.shaman <alshaman64@gmail.com>
+Section: Utilities
+Filename: deb/com.s3ud.alshaman.manly_1.6.6_iphoneos-arm.deb
+Size: 3142
+MD5sum: 64f76970fa2bae55073ae7e11cf7ed69
