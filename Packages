@@ -631,3 +631,17 @@ Filename: deb/com.s3ud.alshaman.reelcallerplus_1.6.7_iphoneos-arm.deb
 Size: 3164
 MD5sum: a3ab034937b87a6c8acd7dcb3244b234
 
+
+Package: com.s3ud.alshaman.majhulnumber
+Name: Majhul number Remove Ads
+Version: 1.0.0.1
+Architecture: iphoneos-arm
+Description: Crack app Majhul number
+Maintainer: Saud Al.shaman <alshaman64@gmail.com>
+Author: Saud Al.shaman <alshaman64@gmail.com>
+Section: Utilities
+Filename: deb/com.s3ud.alshaman.majhulnumber_1.0.0.1_iphoneos-arm.deb
+Size: 3154
+MD5sum: f3f634982c9071d92b81090df10c6f62
+
+
