@@ -710,14 +710,14 @@ MD5sum: 96599e7031f763a37f3812b653f1f4bb
 
 
 Package: com.s3ud.alshaman.4sharedsync
-Name: 4sharedsync Remove Ads
+Name: 4shared Remove Ads
 Version: 2.63.0
 Architecture: iphoneos-arm
-Description: Crack app 4sharedsync
+Description: Crack app 4shared
 Maintainer: Saud Al.shaman <alshaman64@gmail.com>
 Author: Saud Al.shaman <alshaman64@gmail.com>
 Section: Utilities
 Filename: deb/com.s3ud.alshaman.4sharedsync_2.63.0_iphoneos-arm.deb
-Size: 3168
-MD5sum: 45d372f2ea71056cc4862b929137f856
+Size: 3170
+MD5sum: 5dab89bfc8db5c79719bdfbb6d59efab
 
