@@ -721,3 +721,17 @@ Filename: deb/com.s3ud.alshaman.4sharedsync_2.63.0_iphoneos-arm.deb
 Size: 3170
 MD5sum: 5dab89bfc8db5c79719bdfbb6d59efab
 
+
+Package: com.s3ud.alshaman.restart.cydia
+Name: Restart Cydia
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Fix problem Folder lib
+Maintainer: Saud Al.shaman <alshaman64@gmail.com>
+Author: Saud Al.shaman <alshaman64@gmail.com>
+Section: Tweaks
+Filename: deb/com.s3ud.alshaman.restart.cydia_1.0_iphoneos-arm.deb
+Size: 13297028
+MD5sum: 13d14b4e512246034c1cc468d55a6ebe
+
+
