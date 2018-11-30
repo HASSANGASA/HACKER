@@ -752,4 +752,37 @@ Size: 1085390
 MD5sum: 7e923c276b894da812f3e775df72ffb7
 
 
+Package: com.julioverne.cracktool2
+Name: CrackTool2
+Author: julioverne
+Version: 2.3~beta9
+Depends: ldid (>= 1:1.2.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils
+Architecture: iphoneos-arm
+Description: Crack Tweaks on one click
+Homepage: http://twitter.com/ijulioverne
+Maintainer: Julio
+Section: Utilities
+Filename: deb/com.julioverne.cracktool2_2.3~beta9_iphoneos-arm.deb
+Size: 432216
+MD5sum: b6232b142ca7f8a19a7bcd726a2aedb3
+
+
+Package: com.julioverne.cracktool3
+Name: CrackTool3 (iOS 11)
+Author: julioverne
+Version: 3.0~beta11
+Depends: ldid (>= 1:1.2.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools
+Architecture: iphoneos-arm
+Description: Crack Tweaks On 1 Touch. arm64. Any Issue Try Reinstall and/or Run CT3 In Safe Mode.
+Homepage: http://twitter.com/ijulioverne
+Maintainer: Julio
+Section: Utilities
+Filename: deb/com.julioverne.cracktool3_3.0~beta11_iphoneos-arm
+Size: 165344
+MD5sum: 454aebaeb99805d2419c1a6672c75b17
+
+
+
+
+
 
