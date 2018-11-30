@@ -39,17 +39,17 @@ Size: 1589456
 MD5sum: 7c6ce62c1c404b6caff93ffb7fe433f3
 
 
-Package: com.alshaman.ArabicFontsBytaFontTweakMode
+Package: com.alshaman.arabicfontsbytafonttweakmode
 Name: Arabic Fonts BytaFont Tweak Mode
-Version: 1.0.3
 Architecture: iphoneos-arm
-Description: بكج يحتوي على 24 خط عربي للاداة المساعدة لاداة بيتا فونت 3     
-Maintainer: سعود الشامان 
-Author: سعود الشامان
+Description: بكج يحتوي على 24 خط عربي للاداة المساعدة لاداة بيتا فونت 3
+Maintainer: Saud Al.shaman <alshaman64@gmail.com>
+Author: Saud Al.shaman <alshaman64@gmail.com>
 Section: Fonts
+Version: 1.0.3
 Filename: deb/ArFontsBytaFontTweakMode.deb
-Size: 2178360
-MD5sum: e7c8c0f3240bdcf00bb0d41d29b2fd07
+Size: 4666258
+MD5sum: 5fff1d4744dd1c94eb9beb8557e9d54f
 
 
 Package: com.alshaman.AnemoneFont
