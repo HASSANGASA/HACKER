@@ -804,4 +804,19 @@ MD5sum: 3d066c0024bacf35a705da8907a11e1a
 
 
 
+Maintainer: LonestarX <me@lonestarx.net>
+Description: Shows where you touch the screen
+Package: com.lnx.showtouch
+Section: Tweaks
+Author: LonestarX <me@lonestarx.net>
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Installed-Size: 388
+Version: 1.0.3-1
+Architecture: iphoneos-arm
+Name: ShowTouch
+Filename: deb/com.lnx.showtouch_1.0.3-1_iphoneos-arm.deb
+Size: 87711
+MD5sum: 409369b12eaab1667989a28153b00b91
+
+
 
