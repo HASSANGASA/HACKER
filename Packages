@@ -777,11 +777,30 @@ Description: Crack Tweaks On 1 Touch. arm64. Any Issue Try Reinstall and/or Run 
 Homepage: http://twitter.com/ijulioverne
 Maintainer: Julio
 Section: Utilities
-Filename: deb/com.julioverne.cracktool3_3.0~beta11_iphoneos-arm
+Filename: deb/com.julioverne.cracktool3_3.0~beta11_iphoneos-arm.deb
 Size: 165344
 MD5sum: 454aebaeb99805d2419c1a6672c75b17
 
 
+
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 11.4.1)
+Depiction: https://cydia.angelxwind.net/?page/net.angelxwind.appsyncunified
+Maintainer: Karen/あけみ (angelXwind) <karen@angelxwind.net>
+Homepage: https://cydia.angelxwind.net/
+Provides: appsync
+Replaces: us.hackulo.appsync50
+Package: net.angelxwind.appsyncunified
+Name: AppSync Unified
+Architecture: iphoneos-arm
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Section: Tweaks
+Author: Linus Yang, Karen/あけみ <karen@angelxwind.net>
+Version: 31.1
+Installed-Size: 256
+Filename: deb/net.angelxwind.appsyncunified_31.1_iphoneos-arm.deb
+Size: 30362
+MD5sum: 3d066c0024bacf35a705da8907a11e1a
 
 
 
