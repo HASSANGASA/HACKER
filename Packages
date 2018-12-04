@@ -819,4 +819,15 @@ Size: 87711
 MD5sum: 409369b12eaab1667989a28153b00b91
 
 
-
+Package: com.s3ud.alshaman.twitterpp
+Name: Twitter ++
+Version: 1.2r-82
+Architecture: iphoneos-arm
+Description: اضافة العديد من الميزات لتطبيق تويتر 
+Author: UnlimApps Inc 
+Section: Tweaks
+Depends: firmware (>= 5.0), mobilesubstrate
+Maintainer: Saud Al.shaman <alshaman64@gmail.com>
+Filename: deb/com.s3ud.alshaman.twitterpp_1.2r-82_iphoneos-arm.deb
+Size: 883028
+MD5sum: 39aa7c4a75796b99937733e65ffdc1c0
