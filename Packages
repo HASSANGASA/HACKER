@@ -877,4 +877,18 @@ Size: 676
 MD5sum: 3c81f88c9a72deff8884d0b0bedfa537
 
 
+Package: com.s3ud.alshaman.libertylite
+Name: Liberty Lite
+Version: 0.2.10
+Architecture: iphoneos-arm
+Description: A (lite) general purpose jailbreak detection bypass patch. Use the Liberty entry in the Settings app to block (most) apps from detecting your jailbreak. Disabling Substrate/Substitute is not supported, so certain apps (PayPal, HSBC HK) will still be problematic.
+Author: Ryley Angus
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, applist
+Icon: file:///Library/PreferenceBundles/LibertyPref.bundle/LibertyPref.png
+Maintainer: Saud Al.shaman <alshaman64@gmail.com>
+Filename: deb/libertylite.deb
+Size: 78378
+MD5sum: 7ccd676dec262b48c08b87be3984a1e2
+
 
