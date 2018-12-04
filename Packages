@@ -892,3 +892,19 @@ Size: 78378
 MD5sum: 7ccd676dec262b48c08b87be3984a1e2
 
 
+Package: com.julioverne.appstoreunrestrict
+Name: Appstore Unrestrict
+Author: julioverne
+Version: 0.0~beta4a
+Depends: preferenceloader, mobilesubstrate
+Architecture: iphoneos-arm
+Description: No Download Size Limit In AppStore Over Cellular
+Homepage: http://twitter.com/ijulioverne
+Maintainer: Julio
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/AppstoreUnrestrictSettings.bundle/icon@2x.png
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.appstoreunrestrict
+Filename: deb/com.julioverne.appstoreunrestrict_0.0~beta4a_iphoneos-arm.deb
+Size: 26200
+MD5sum: 669e6b1c112f3d59801b048a3adc3fa3
+
