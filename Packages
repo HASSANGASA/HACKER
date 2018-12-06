@@ -908,3 +908,15 @@ Filename: deb/com.julioverne.appstoreunrestrict_0.0~beta4a_iphoneos-arm.deb
 Size: 26200
 MD5sum: 669e6b1c112f3d59801b048a3adc3fa3
 
+Package: com.s3ud.alshaman.cut.pro
+Name: Cut Pro
+Version: 1.5
+Architecture: iphoneos-arm
+Description: Crack app Cut
+Maintainer: Saud Al.shaman <alshaman64@gmail.com>
+Author: Saud Al.shaman <alshaman64@gmail.com>
+Section: Utilities
+Filename: deb/com.s3ud.alshaman.cut.pro_1.5_iphoneos-arm.deb
+Size: 3114
+MD5sum: 33c30d2dbb060c5d58539219635e9b35
+
