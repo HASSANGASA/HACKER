@@ -920,3 +920,17 @@ Filename: deb/com.s3ud.alshaman.cut.pro_1.5_iphoneos-arm.deb
 Size: 3114
 MD5sum: 33c30d2dbb060c5d58539219635e9b35
 
+
+Package: com.alshaman.xcode.mini
+Name: Xcode mini
+Version: 1.0
+Architecture: iphoneos-arm
+Description: تطبيق لتحرير أكواد سويفت
+Maintainer: ‪ Saud Al.shaman <alshaman64@gmail.com>
+Author: Kristaps Grinbergs‬
+Homepage: https://twitter.com/fassko/status/1065729489420910593?s=21
+Section: Tweaks
+Filename: deb/com.alshaman.xcode.mini_1.0_iphoneos-arm.deb
+Size: 14142514
+MD5sum: 13f1fc160fb7c0b654ef88c4cebcc0e1
+
